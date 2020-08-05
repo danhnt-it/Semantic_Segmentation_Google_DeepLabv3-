@@ -15,4 +15,4 @@ Main Reference Paper and Source Code:
 + L.-C. Chen, Y. Zhu, G. Papandreou, F. Schroff, and H. Adam, ''Encoder-decoder with atrous separable convolution for semantic image segmentation,'' in ECCV, 2018.
 + https://github.com/tensorflow/models/tree/master/research/deeplab
 
-<!-- Publish online try at: https://colab.research.google.com/drive/1DRsAPsLNtxOljWY6RIbp4aKdJSMYz1PI?fbclid=IwAR1kN2Z9lznPhNUCQ84qCpQ0561FNMXGfa8p3iQaKE4wgpK020qXbCK_Y2U#sandboxMode=true&scrollTo=jhC_IGzuNZJb -->
+Published online, try at: https://colab.research.google.com/drive/1DRsAPsLNtxOljWY6RIbp4aKdJSMYz1PI?fbclid=IwAR1kN2Z9lznPhNUCQ84qCpQ0561FNMXGfa8p3iQaKE4wgpK020qXbCK_Y2U#sandboxMode=true&scrollTo=jhC_IGzuNZJb
